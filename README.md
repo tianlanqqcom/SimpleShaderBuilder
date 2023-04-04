@@ -32,7 +32,6 @@ void main()
 
 下载ShaderBuider.h和ShaderBuilder.cpp，然后直接加入到你的项目里（确保opengl环境已经配好），就可以开始使用了。
 
-**注意：暂不支持 MinGW 编译器，请使用 Visual Studio 编译项目。**
 
 ## 基本使用样例
 
